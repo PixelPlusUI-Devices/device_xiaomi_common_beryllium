@@ -567,28 +567,6 @@ vendor/lib64/libOmxVpp.so|ecac67069b45ee1fac35207b31d87633a1550292
 vendor/lib64/libOmxWmaDec.so|397a1e6911c1cdf8b5cf9af141646e18a751cb48
 vendor/lib64/libswvdec.so|53fa9fdb8c0e7529b7ba7b7bb9b278389107115a
 
-# OMX - from pyxis - RKQ1.200826.002/21.3.31
-vendor/lib/libOmxAacDec.so|f18639532c3946f4fd09e6f29e073c9addc241b5
-vendor/lib/libOmxAlacDec.so|1ee14f0f6847ca6f77fe5cd703826a65b31bb007
-vendor/lib/libOmxAmrDec.so|2c38efad245c5daa3190842a8d37f2ac49155004
-vendor/lib/libOmxAmrwbplusDec.so|a64254b4bd4c9296418b45391e87d4ea6ba24394
-vendor/lib/libOmxApeDec.so|d5f958cb3a64be3cd1c65f312a717d3c90580d13
-vendor/lib/libOmxG711Dec.so|6d39a37509da20f81bfef77ddeec75f17df4373c
-vendor/lib/libOmxSwVdec.so|abd6591601c8bdbd9938cb0093d3426feadece3d
-vendor/lib/libOmxSwVencMpeg4.so|e801e66197144e64fe30dcde98afe4c376023280
-vendor/lib/libOmxVpp.so|e4d7aef31c0d15d38a79a5f22085b37c5b06d542
-vendor/lib/libOmxWmaDec.so|512385d31b4108211858329f038f2acb85ce0883
-vendor/lib64/libOmxAacDec.so|b7c0280dd4e2e7ea9231bda9882900f0c66778ca
-vendor/lib64/libOmxAlacDec.so|5a42182eba14578818e00823cf4ffc00dee99e97
-vendor/lib64/libOmxAmrDec.so|52ee3c68a5443d8ccb68837d9bbece838c379c53
-vendor/lib64/libOmxAmrwbplusDec.so|5bbee05261665e71d9337da28623ececb3cdfddf
-vendor/lib64/libOmxApeDec.so|061b3095754f0033e7d08d97ae5885352e016965
-vendor/lib64/libOmxG711Dec.so|a20456028d3873a4ca915c5b184a42d47de6b14a
-vendor/lib64/libOmxSwVdec.so|4efdc247e7bdf9e498e6c07e064aab019c84f914
-vendor/lib64/libOmxSwVencMpeg4.so|4e1f32ccf976300e61944fa53a7a8d428c96e63f
-vendor/lib64/libOmxVpp.so|cdfaddccab74d1602831e4d7777b09d206c1d237
-vendor/lib64/libOmxWmaDec.so|25f63aec3ac27ef6411cee94f9dd9a2dabbdbca8
-
 # Peripheral manager - from OnePlus6 - RKQ1.201217.002/2107130217
 vendor/bin/pm-proxy|60aaf1854b8d1010e9d124518dd81bbc5ae072f7
 vendor/bin/pm-service|534d7152d9c134e8f4c59eec134e0951e0970be2
